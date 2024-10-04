@@ -1,0 +1,730 @@
+Copied information from: https://www.mcmaster.com/products/nuts/hex-nuts-2~/hex-nuts-1~~/
+
+Zinc-Plated Steel
+1/4"-20	7/16"	7/32"	SAE Grade 5	ASME B18.2.2	100	95462A029	$8.95	
+1/4"-28	7/16"	7/32"	SAE Grade 5	ASME B18.2.2	100	95462A505	8.00	
+5/16"-18	1/2"	17/64"	SAE Grade 5	ASME B18.2.2	100	95462A030	11.03	
+5/16"-24	1/2"	17/64"	SAE Grade 5	ASME B18.2.2	100	95462A510	12.00	
+3/8"-16	9/16"	21/64"	SAE Grade 5	ASME B18.2.2	100	95462A031	15.94	
+3/8"-24	9/16"	21/64"	SAE Grade 5	ASME B18.2.2	100	95462A515	12.00	
+7/16"-14	11/16"	3/8"	SAE Grade 5	ASME B18.2.2	100	95462A032	24.54	
+7/16"-20	11/16"	3/8"	SAE Grade 5	ASME B18.2.2	100	95462A520	23.33	
+1/2"-13	3/4"	7/16"	SAE Grade 5	ASME B18.2.2	100	95462A033	29.99	
+1/2"-20	3/4"	7/16"	SAE Grade 5	ASME B18.2.2	100	95462A525	24.52	
+9/16"-12	7/8"	31/64"	SAE Grade 5	ASME B18.2.2	50	95462A528	17.90	
+9/16"-18	7/8"	31/64"	SAE Grade 5	ASME B18.2.2	25	95462A530	11.90	
+5/8"-11	15/16"	35/64"	SAE Grade 5	ASME B18.2.2	25	95462A533	14.26	
+5/8"-18	15/16"	35/64"	SAE Grade 5	ASME B18.2.2	25	95462A535	11.77	
+3/4"-10	1 1/8"	41/64"	SAE Grade 5	ASME B18.2.2	25	95462A538	25.36	
+3/4"-16	1 1/8"	41/64"	SAE Grade 5	ASME B18.2.2	25	95462A540	22.52	
+7/8"-9	1 5/16"	3/4"	SAE Grade 5	ASME B18.2.2	10	95462A542	14.82	
+7/8"-14	1 5/16"	3/4"	SAE Grade 5	ASME B18.2.2	10	95462A545	13.44	
+1"-8	1 1/2"	55/64"	SAE Grade 5	ASME B18.2.2	10	95462A548	20.40	
+1"-12	1 1/2"	55/64"	SAE Grade 5	ASME B18.2.2	1	95462A550	4.34	
+1"-14	1 1/2"	55/64"	SAE Grade 5	ASME B18.2.2	10	95462A555	21.15	
+1 1/8"-7	1 11/16"	31/32"	SAE Grade 5	ASME B18.2.2	10	95462A557	27.83	
+1 1/8"-12	1 11/16"	31/32"	SAE Grade 5	ASME B18.2.2	10	95462A558	26.17	
+1 1/4"-7	1 7/8"	1 1/16"	SAE Grade 5	ASME B18.2.2	5	95462A559	19.36	
+1 1/4"-12	1 7/8"	1 1/16"	SAE Grade 5	ASME B18.2.2	5	95462A560	20.00	
+1 3/8"-6	2 1/16"	1 11/64"	SAE Grade 5	ASME B18.2.2	1	95462A562	5.89	
+1 3/8"-12	2 1/16"	1 11/64"	SAE Grade 5	ASME B18.2.2	1	95462A563	5.85	
+1 1/2"-6	2 1/4"	1 9/32"	SAE Grade 5	ASME B18.2.2	1	95462A564	8.60	
+1 1/2"-12	2 1/4"	1 9/32"	SAE Grade 5	ASME B18.2.2	1	95462A565	8.60	
+2"-4 1/2	3"	1 23/32"	SAE Grade 5	ASME B18.2.2	1	95462A211	23.71	
+2"-12	3"	1 23/32"	SAE Grade 5	ASME B18.2.2	1	95462A213	24.43	
+M2 × 0.4 mm	4 mm	1.6 mm	ISO Class 8	DIN 934	100	90591A265	2.22	
+M2.5 × 0.45 mm	5 mm	2 mm	ISO Class 8	DIN 934	100	90591A270	2.22	
+M3 × 0.5 mm	5.5 mm	2.4 mm	ISO Class 8	DIN 934	100	90591A250	2.81	
+M3.5 × 0.6 mm	6 mm	2.8 mm	ISO Class 8	DIN 934	100	90591A100	4.48	
+M4 × 0.7 mm	7 mm	3.2 mm	ISO Class 8	DIN 934	100	90591A255	3.11	
+M5 × 0.8 mm	8 mm	4 mm	ISO Class 8	DIN 934	100	90591A260	3.56	
+M6 × 0.75 mm	10 mm	5 mm	ISO Class 8	DIN 934	50	91415A210	11.49	
+M6 × 1 mm	10 mm	5 mm	ISO Class 8	DIN 934	100	90591A151	3.14	
+M7 × 1 mm	11 mm	5.5 mm	ISO Class 8	DIN 934	100	90591A154	5.36	
+M8 × 1 mm	13 mm	6.5 mm	ISO Class 8	DIN 934	100	91415A105	12.64	
+M8 × 1.25 mm	13 mm	6.5 mm	ISO Class 8	DIN 934	100	90591A161	6.91	
+M10 × 1 mm	17 mm	8 mm	ISO Class 8	DIN 934	50	91415A215	16.37	
+M10 × 1.25 mm	17 mm	8 mm	ISO Class 8	DIN 934	50	91415A225	14.51	
+M10 × 1.5 mm	17 mm	8 mm	ISO Class 8	DIN 934	100	90591A171	14.28	
+M12 × 1 mm	19 mm	10 mm	ISO Class 8	DIN 934	10	91415A150	10.57	
+M12 × 1.25 mm	19 mm	10 mm	ISO Class 8	DIN 934	25	91415A235	12.83	
+M12 × 1.5 mm	19 mm	10 mm	ISO Class 8	DIN 934	25	91415A125	11.17	
+M12 × 1.75 mm	19 mm	10 mm	ISO Class 8	DIN 934	50	90591A181	11.72	
+M14 × 1.5 mm	22 mm	11 mm	ISO Class 8	DIN 934	25	91415A255	13.94	
+M14 × 2 mm	22 mm	11 mm	ISO Class 8	DIN 934	25	90591A215	9.85	
+M16 × 1.5 mm	24 mm	13 mm	ISO Class 8	DIN 934	20	91415A265	17.27	
+M16 × 2 mm	24 mm	13 mm	ISO Class 8	DIN 934	25	90591A220	10.30	
+M18 × 1.5 mm	27 mm	15 mm	ISO Class 8	DIN 934	10	91415A270	12.46	
+M18 × 2.5 mm	27 mm	15 mm	ISO Class 8	DIN 934	10	90591A225	8.32	
+M20 × 1.5 mm	30 mm	16 mm	ISO Class 8	DIN 934	10	91415A275	12.47	
+M20 × 2 mm	30 mm	16 mm	ISO Class 8	DIN 934	1	91415A220	4.60	
+M20 × 2.5 mm	30 mm	16 mm	ISO Class 8	DIN 934	10	90591A230	8.96	
+M22 × 1.5 mm	32 mm	18 mm	ISO Class 8	DIN 934	1	91415A280	4.26	
+M22 × 2 mm	32 mm	18 mm	ISO Class 8	DIN 934	1	91415A230	7.47	
+M22 × 2.5 mm	32 mm	18 mm	ISO Class 8	DIN 934	10	90591A127	11.38	
+M24 × 1.5 mm	36 mm	19 mm	ISO Class 8	DIN 934	1	91415A285	4.52	
+M24 × 2 mm	36 mm	19 mm	ISO Class 8	DIN 934	1	91415A290	5.41	
+M24 × 3 mm	36 mm	19 mm	ISO Class 8	DIN 934	10	90591A235	12.62	
+M27 × 2 mm	41 mm	22 mm	ISO Class 8	DIN 934	1	91415A240	17.25	
+M27 × 3 mm	41 mm	22 mm	ISO Class 8	DIN 934	1	90591A140	3.45	
+M30 × 2 mm	46 mm	24 mm	ISO Class 8	DIN 934	1	91415A310	8.70	
+M30 × 3.5 mm	46 mm	24 mm	ISO Class 8	DIN 934	1	90591A240	4.88	
+M33 × 3.5 mm	50 mm	26 mm	ISO Class 8	DIN 934	1	90591A147	5.52	
+M36 × 3 mm	55 mm	29 mm	ISO Class 8	DIN 934	1	91415A340	16.31	
+M36 × 4 mm	55 mm	29 mm	ISO Class 8	DIN 934	1	90591A245	9.01	
+M39 × 4 mm	60 mm	31 mm	ISO Class 8	DIN 934	1	90591A162	8.38	
+M42 × 4.5 mm	65 mm	34 mm	ISO Class 8	DIN 934	1	90591A199	8.45	
+M48 × 5 mm	75 mm	38 mm	ISO Class 8	DIN 934	1	90591A824	15.10	
+ 
+Zinc Yellow-Chromate-Plated Steel
+M3 × 0.5 mm	5.5 mm	2.4 mm	ISO Class 8	DIN 934	100	97700A110	5.05	
+M4 × 0.7 mm	7 mm	3.2 mm	ISO Class 8	DIN 934	100	97700A120	5.45	
+M5 × 0.8 mm	8 mm	4 mm	ISO Class 8	DIN 934	100	97700A130	6.05	
+M6 × 0.75 mm	10 mm	5 mm	ISO Class 8	DIN 934	50	94409A117	8.19	
+M6 × 1 mm	10 mm	5 mm	ISO Class 8	DIN 934	100	97700A140	5.48	
+M7 × 1 mm	11 mm	5.5 mm	ISO Class 8	DIN 934	100	97700A150	8.48	
+M8 × 1 mm	13 mm	6.5 mm	ISO Class 8	DIN 934	50	94409A118	5.27	
+M8 × 1.25 mm	13 mm	6.5 mm	ISO Class 8	DIN 934	50	97700A160	5.93	
+M10 × 1 mm	17 mm	8 mm	ISO Class 8	DIN 934	25	94409A121	7.58	
+M10 × 1.25 mm	17 mm	8 mm	ISO Class 8	DIN 934	50	94409A119	13.86	
+M10 × 1.5 mm	17 mm	8 mm	ISO Class 8	DIN 934	25	97700A170	6.08	
+M12 × 1 mm	19 mm	10 mm	ISO Class 8	DIN 934	10	94409A124	9.10	
+M12 × 1.25 mm	19 mm	10 mm	ISO Class 8	DIN 934	25	94409A123	11.99	
+M12 × 1.5 mm	19 mm	10 mm	ISO Class 8	DIN 934	25	94409A122	10.80	
+M12 × 1.75 mm	19 mm	10 mm	ISO Class 8	DIN 934	25	97700A180	9.15	
+M14 × 1.5 mm	22 mm	11 mm	ISO Class 8	DIN 934	25	94409A125	12.07	
+M14 × 2 mm	22 mm	11 mm	ISO Class 8	DIN 934	10	97700A190	6.58	
+M16 × 1.5 mm	24 mm	13 mm	ISO Class 8	DIN 934	10	94409A126	7.30	
+M16 × 2 mm	24 mm	13 mm	ISO Class 8	DIN 934	10	97700A210	6.80	
+M18 × 1.5 mm	27 mm	15 mm	ISO Class 8	DIN 934	5	94409A111	7.46	
+M18 × 2.5 mm	27 mm	15 mm	ISO Class 8	DIN 934	5	97700A220	6.88	
+M20 × 1.5 mm	30 mm	16 mm	ISO Class 8	DIN 934	5	94409A112	7.66	
+M20 × 2.5 mm	30 mm	16 mm	ISO Class 8	DIN 934	5	97700A230	7.30	
+M22 × 1.5 mm	32 mm	18 mm	ISO Class 8	DIN 934	1	94409A127	3.65	
+M22 × 2.5 mm	32 mm	18 mm	ISO Class 8	DIN 934	5	97700A240	8.93	
+M24 × 1.5 mm	36 mm	19 mm	ISO Class 8	DIN 934	1	94409A129	3.74	
+M24 × 2 mm	36 mm	19 mm	ISO Class 8	DIN 934	1	94409A128	4.53	
+M24 × 3 mm	36 mm	19 mm	ISO Class 8	DIN 934	5	97700A250	9.75	
+M27 × 3 mm	41 mm	22 mm	ISO Class 8	DIN 934	1	97700A260	6.28	
+M30 × 3.5 mm	46 mm	24 mm	ISO Class 8	DIN 934	1	97700A270	8.33	
+M36 × 4 mm	55 mm	29 mm	ISO Class 8	DIN 934	1	97700A290	14.33	
+M48 × 5 mm	75 mm	38 mm	ISO Class 8	DIN 934	1	97700A340	23.15	
+ 
+Black-Oxide Steel
+1/4"-20	7/16"	7/32"	SAE Grade 5	ASME B18.2.2	50	95479A111	8.90	
+1/4"-28	7/16"	7/32"	SAE Grade 5	ASME B18.2.2	50	95479A113	13.97	
+5/16"-18	1/2"	17/64"	SAE Grade 5	ASME B18.2.2	50	95479A115	10.56	
+5/16"-24	1/2"	17/64"	SAE Grade 5	ASME B18.2.2	50	95479A117	28.04	
+3/8"-16	9/16"	21/64"	SAE Grade 5	ASME B18.2.2	50	95479A118	19.64	
+3/8"-24	9/16"	21/64"	SAE Grade 5	ASME B18.2.2	25	95479A119	22.37	
+7/16"-14	11/16"	3/8"	SAE Grade 5	ASME B18.2.2	25	95479A211	20.11	
+7/16"-20	11/16"	3/8"	SAE Grade 5	ASME B18.2.2	25	95479A215	13.73	
+1/2"-13	3/4"	7/16"	SAE Grade 5	ASME B18.2.2	25	95479A121	21.48	
+1/2"-20	3/4"	7/16"	SAE Grade 5	ASME B18.2.2	10	95479A122	9.23	
+9/16"-12	7/8"	31/64"	SAE Grade 5	ASME B18.2.2	10	95479A123	14.28	
+9/16"-18	7/8"	1/2"	SAE Grade 5	ASME B18.2.2	25	95479A108	5.26	
+5/8"-11	15/16"	35/64"	SAE Grade 5	ASME B18.2.2	10	95479A125	14.00	
+5/8"-18	15/16"	35/64"	SAE Grade 5	ASME B18.2.2	10	95479A127	11.17	
+3/4"-10	1 1/8"	41/64"	SAE Grade 5	ASME B18.2.2	10	95479A128	20.39	
+3/4"-16	1 1/8"	41/64"	SAE Grade 5	ASME B18.2.2	10	95479A129	16.16	
+7/8"-9	1 5/16"	3/4"	SAE Grade 5	ASME B18.2.2	5	95479A131	11.11	
+7/8"-14	1 5/16"	3/4"	SAE Grade 5	ASME B18.2.2	5	95479A132	11.10	
+1"-8	1 1/2"	55/64"	SAE Grade 5	ASME B18.2.2	5	95479A135	15.98	
+1"-14	1 1/2"	7/8"	SAE Grade 5	ASME B18.2.2	10	95479A177	18.89	
+1 1/8"-7	1 11/16"	31/32"	SAE Grade 5	ASME B18.2.2	1	95479A140	5.20	
+1 1/8"-12	1 11/16"	1"	SAE Grade 5	ASME B18.2.2	10	95479A184	38.19	
+1 1/4"-7	1 7/8"	1 1/16"	SAE Grade 5	ASME B18.2.2	1	95479A145	6.56	
+1 1/4"-12	1 7/8"	1 1/16"	SAE Grade 5	ASME B18.2.2	5	95479A205	17.73	
+1 3/8"-6	2 1/16"	1 3/16"	SAE Grade 5	ASME B18.2.2	1	95479A222	6.28	
+1 3/8"-12	2 1/16"	1 3/16"	SAE Grade 5	ASME B18.2.2	1	95479A335	6.80	
+1 1/2"-6	2 1/4"	1 5/16"	SAE Grade 5	ASME B18.2.2	1	95479A449	9.46	
+1 1/2"-12	2 1/4"	1 5/16"	SAE Grade 5	ASME B18.2.2	1	95479A909	9.46	
+M2 × 0.4 mm	4 mm	1.6 mm	ISO Class 8	DIN 934	50	90593A024	7.35	
+M2.5 × 0.45 mm	5 mm	2 mm	ISO Class 8	DIN 934	50	90593A025	9.12	
+M3 × 0.5 mm	5.5 mm	2.4 mm	ISO Class 8	DIN 934	100	90593A001	11.38	
+M3.5 × 0.6 mm	6 mm	2.8 mm	ISO Class 8	DIN 934	50	90593A002	9.31	
+M4 × 0.7 mm	7 mm	3.2 mm	ISO Class 8	DIN 934	100	90593A003	12.42	
+M5 × 0.8 mm	8 mm	4 mm	ISO Class 8	DIN 934	100	90593A004	13.45	
+M6 × 1 mm	10 mm	5 mm	ISO Class 8	DIN 934	50	90593A005	11.55	
+M7 × 1 mm	11 mm	5.5 mm	ISO Class 8	DIN 934	25	90593A006	9.66	
+M8 × 1 mm	13 mm	6.5 mm	ISO Class 8	DIN 934	25	91423A511	10.34	
+M8 × 1.25 mm	13 mm	6.5 mm	ISO Class 8	DIN 934	50	90593A007	14.48	
+M10 × 1 mm	17 mm	8 mm	ISO Class 8	DIN 934	25	91423A512	11.59	
+M10 × 1.25 mm	17 mm	8 mm	ISO Class 8	DIN 934	25	91423A522	11.59	
+M10 × 1.5 mm	17 mm	8 mm	ISO Class 8	DIN 934	25	90593A008	8.28	
+M12 × 1.25 mm	19 mm	10 mm	ISO Class 8	DIN 934	10	91423A513	7.93	
+M12 × 1.5 mm	19 mm	10 mm	ISO Class 8	DIN 934	10	91423A514	7.93	
+M12 × 1.75 mm	19 mm	10 mm	ISO Class 8	DIN 934	25	90593A009	8.62	
+M14 × 1.25 mm	22 mm	11 mm	ISO Class 8	DIN 934	10	91423A515	10.72	
+M14 × 1.5 mm	22 mm	11 mm	ISO Class 8	DIN 934	10	91423A516	10.72	
+M14 × 2 mm	22 mm	11 mm	ISO Class 8	DIN 934	5	90593A010	8.45	
+M16 × 1.5 mm	24 mm	13 mm	ISO Class 8	DIN 934	10	91423A517	12.62	
+M16 × 2 mm	24 mm	13 mm	ISO Class 8	DIN 934	5	90593A011	13.97	
+M18 × 1.5 mm	27 mm	15 mm	ISO Class 8	DIN 934	10	91423A518	14.44	
+M18 × 2.5 mm	27 mm	15 mm	ISO Class 8	DIN 934	1	90593A012	3.03	
+M20 × 1.5 mm	30 mm	16 mm	ISO Class 8	DIN 934	5	91423A519	11.74	
+M20 × 2.5 mm	30 mm	16 mm	ISO Class 8	DIN 934	1	90593A013	3.27	
+M22 × 1.5 mm	32 mm	18 mm	ISO Class 8	DIN 934	1	91423A521	5.43	
+M22 × 2.5 mm	32 mm	18 mm	ISO Class 8	DIN 934	1	90593A014	4.14	
+M24 × 1.5 mm	36 mm	19 mm	ISO Class 8	DIN 934	1	91423A523	5.24	
+M24 × 2 mm	36 mm	19 mm	ISO Class 8	DIN 934	1	91423A524	5.24	
+M24 × 3 mm	36 mm	19 mm	ISO Class 8	DIN 934	5	90593A015	11.90	
+M27 × 3 mm	41 mm	22 mm	ISO Class 8	DIN 934	1	90593A016	12.07	
+M30 × 3.5 mm	46 mm	24 mm	ISO Class 8	DIN 934	1	90593A017	12.07	
+M33 × 3.5 mm	50 mm	26 mm	ISO Class 8	DIN 934	1	90593A018	20.69	
+M36 × 4 mm	60 mm	29 mm	ISO Class 8	DIN 934	1	90593A019	18.27	
+M39 × 4 mm	60 mm	31 mm	ISO Class 8	DIN 934	1	90593A020	24.49	
+M42 × 4.5 mm	65 mm	34 mm	ISO Class 8	DIN 934	1	90593A021	24.83	
+M45 × 4.5 mm	70 mm	36 mm	ISO Class 8	DIN 934	1	90593A022	27.59	
+M48 × 5 mm	75 mm	38 mm	ISO Class 8	DIN 934	1	90593A023	29.32	
+ 
+Black Corrosion-Resistant-Coated Steel
+1/4"-20	7/16"	7/32"	SAE Grade 5	ASME B18.2.2	10	98797A029	9.65	
+5/16"-18	1/2"	17/64"	SAE Grade 5	ASME B18.2.2	10	98797A030	10.58	
+3/8"-16	9/16"	21/64"	SAE Grade 5	ASME B18.2.2	5	98797A031	7.70	
+7/16"-14	11/16"	3/8"	SAE Grade 5	ASME B18.2.2	5	98797A330	8.12	
+1/2"-13	3/4"	7/16"	SAE Grade 5	ASME B18.2.2	5	98797A523	9.80	
+9/16"-12	7/8"	31/64"	SAE Grade 5	ASME B18.2.2	5	98797A395	12.93	
+5/8"-11	15/16"	35/64"	SAE Grade 5	ASME B18.2.2	1	98797A535	3.03	
+3/4"-10	1 1/8"	41/64"	SAE Grade 5	ASME B18.2.2	1	98797A855	3.79	
+ 
+Steel
+1/4"-20	7/16"	7/32"	SAE Grade 5	ASME B18.2.2	100	95505A601	7.08	
+1/4"-28	7/16"	7/32"	SAE Grade 5	ASME B18.2.2	100	95505A611	6.25	
+5/16"-18	1/2"	17/64"	SAE Grade 5	ASME B18.2.2	100	95505A602	9.57	
+5/16"-24	1/2"	17/64"	SAE Grade 5	ASME B18.2.2	100	95505A612	5.71	
+3/8"-16	9/16"	21/64"	SAE Grade 5	ASME B18.2.2	100	95505A603	11.86	
+3/8"-24	9/16"	21/64"	SAE Grade 5	ASME B18.2.2	100	95505A613	8.58	
+7/16"-14	11/16"	3/8"	SAE Grade 5	ASME B18.2.2	100	95505A604	18.64	
+7/16"-20	11/16"	3/8"	SAE Grade 5	ASME B18.2.2	100	95505A614	14.29	
+1/2"-13	3/4"	7/16"	SAE Grade 5	ASME B18.2.2	50	95505A605	16.91	
+1/2"-20	3/4"	7/16"	SAE Grade 5	ASME B18.2.2	50	95505A615	12.12	
+9/16"-12	7/8"	31/64"	SAE Grade 5	ASME B18.2.2	25	95505A606	13.94	
+9/16"-18	7/8"	31/64"	SAE Grade 5	ASME B18.2.2	25	95505A616	9.05	
+5/8"-11	15/16"	35/64"	SAE Grade 5	ASME B18.2.2	25	95505A607	13.25	
+5/8"-18	15/16"	35/64"	SAE Grade 5	ASME B18.2.2	25	95505A617	11.42	
+3/4"-10	1 1/8"	41/64"	SAE Grade 5	ASME B18.2.2	25	95505A608	21.18	
+3/4"-16	1 1/8"	41/64"	SAE Grade 5	ASME B18.2.2	25	95505A618	14.96	
+7/8"-9	1 5/16"	3/4"	SAE Grade 5	ASME B18.2.2	10	95505A609	16.54	
+7/8"-14	1 5/16"	3/4"	SAE Grade 5	ASME B18.2.2	10	95505A619	13.39	
+1"-8	1 1/2"	55/64"	SAE Grade 5	ASME B18.2.2	5	95505A610	9.20	
+1"-12	1 1/2"	55/64"	SAE Grade 5	ASME B18.2.2	1	95505A620	3.71	
+1"-14	1 1/2"	55/64"	SAE Grade 5	ASME B18.2.2	5	95505A621	7.83	
+1 1/8"-7	1 11/16"	31/32"	SAE Grade 5	ASME B18.2.2	5	95505A622	12.00	
+1 1/8"-12	1 11/16"	31/32"	SAE Grade 5	ASME B18.2.2	5	95505A626	12.71	
+1 1/4"-7	1 7/8"	1 1/16"	SAE Grade 5	ASME B18.2.2	5	95505A623	9.15	
+1 1/4"-12	1 7/8"	1 1/16"	SAE Grade 5	ASME B18.2.2	5	95505A627	17.14	
+1 3/8"-6	2 1/16"	1 11/64"	SAE Grade 5	ASME B18.2.2	1	95505A624	4.75	
+1 3/8"-12	2 1/16"	1 11/64"	SAE Grade 5	ASME B18.2.2	1	95505A628	5.00	
+1 1/2"-6	2 1/4"	1 9/32"	SAE Grade 5	ASME B18.2.2	1	95505A625	7.00	
+1 1/2"-12	2 1/4"	1 9/32"	SAE Grade 5	ASME B18.2.2	1	95505A629	7.43	
+1 3/4"-5	2 5/8"	1 1/2"	SAE Grade 5	ASME B18.2.2	1	95505A642	10.26	
+1 3/4"-12	2 5/8"	1 1/2"	SAE Grade 5	ASME B18.2.2	1	95505A630	16.78	
+2"-4 1/2	3"	1 23/32"	SAE Grade 5	ASME B18.2.2	1	95505A661	14.99	
+2"-12	3"	1 23/32"	SAE Grade 5	ASME B18.2.2	1	95505A631	16.25	
+M2 × 0.4 mm	4 mm	1.6 mm	ISO Class 8	DIN 934	100	90592A075	4.00	
+M2.5 × 0.45 mm	5 mm	2 mm	ISO Class 8	DIN 934	100	90592A080	4.19	
+M3 × 0.5 mm	5.5 mm	2.4 mm	ISO Class 8	DIN 934	100	90592A085	2.62	
+M3.5 × 0.6 mm	6 mm	2.8 mm	ISO Class 8	DIN 934	100	90592A104	10.35	
+M4 × 0.7 mm	7 mm	3.2 mm	ISO Class 8	DIN 934	100	90592A090	3.81	
+M5 × 0.8 mm	8 mm	4 mm	ISO Class 8	DIN 934	100	90592A095	5.24	
+M6 × 0.75 mm	10 mm	5 mm	ISO Class 8	DIN 934	100	91423A110	13.79	
+M6 × 1 mm	10 mm	5 mm	ISO Class 8	DIN 934	100	90592A016	5.21	
+M7 × 1 mm	11 mm	5.5 mm	ISO Class 8	DIN 934	100	90592A018	8.18	
+M8 × 1 mm	13 mm	6.5 mm	ISO Class 8	DIN 934	100	91423A120	10.35	
+M8 × 1.25 mm	13 mm	6.5 mm	ISO Class 8	DIN 934	100	90592A022	9.67	
+M10 × 1 mm	17 mm	8 mm	ISO Class 8	DIN 934	50	91423A140	14.94	
+M10 × 1.25 mm	17 mm	8 mm	ISO Class 8	DIN 934	50	91423A130	13.51	
+M10 × 1.5 mm	17 mm	8 mm	ISO Class 8	DIN 934	100	90592A024	16.25	
+M12 × 1 mm	19 mm	10 mm	ISO Class 8	DIN 934	10	91423A170	12.07	
+M12 × 1.25 mm	19 mm	10 mm	ISO Class 8	DIN 934	25	91423A160	11.78	
+M12 × 1.5 mm	19 mm	10 mm	ISO Class 8	DIN 934	25	91423A150	10.63	
+M12 × 1.75 mm	19 mm	10 mm	ISO Class 8	DIN 934	100	90592A028	24.37	
+M14 × 1.25 mm	22 mm	11 mm	ISO Class 8	DIN 934	5	91423A190	12.93	
+M14 × 1.5 mm	22 mm	11 mm	ISO Class 8	DIN 934	25	91423A180	12.07	
+M14 × 2 mm	22 mm	11 mm	ISO Class 8	DIN 934	25	90592A032	13.95	
+M16 × 1.5 mm	24 mm	13 mm	ISO Class 8	DIN 934	20	91423A210	14.94	
+M16 × 2 mm	24 mm	13 mm	ISO Class 8	DIN 934	25	90592A034	13.75	
+M18 × 1.5 mm	27 mm	15 mm	ISO Class 8	DIN 934	10	91423A220	10.35	
+M18 × 2.5 mm	27 mm	15 mm	ISO Class 8	DIN 934	25	90592A045	21.25	
+M20 × 1.5 mm	30 mm	16 mm	ISO Class 8	DIN 934	5	91423A240	8.62	
+M20 × 2 mm	30 mm	16 mm	ISO Class 8	DIN 934	1	91423A230	7.24	
+M20 × 2.5 mm	30 mm	16 mm	ISO Class 8	DIN 934	10	90592A050	12.92	
+M22 × 1.5 mm	32 mm	18 mm	ISO Class 8	DIN 934	1	91423A260	4.25	
+M22 × 2 mm	32 mm	18 mm	ISO Class 8	DIN 934	1	91423A250	3.91	
+M22 × 2.5 mm	32 mm	18 mm	ISO Class 8	DIN 934	10	90592A109	16.09	
+M24 × 1.5 mm	36 mm	19 mm	ISO Class 8	DIN 934	1	91423A280	4.48	
+M24 × 2 mm	36 mm	19 mm	ISO Class 8	DIN 934	5	91423A270	13.22	
+M24 × 3 mm	36 mm	19 mm	ISO Class 8	DIN 934	10	90592A055	17.75	
+M27 × 1.5 mm	41 mm	22 mm	ISO Class 8	DIN 934	1	91423A310	11.21	
+M27 × 2 mm	41 mm	22 mm	ISO Class 8	DIN 934	1	91423A290	8.62	
+M27 × 3 mm	41 mm	22 mm	ISO Class 8	DIN 934	1	90592A313	5.17	
+M30 × 2 mm	46 mm	24 mm	ISO Class 8	DIN 934	1	91423A320	6.33	
+M30 × 3.5 mm	46 mm	24 mm	ISO Class 8	DIN 934	5	90592A065	23.40	
+M33 × 2 mm	50 mm	26 mm	ISO Class 8	DIN 934	1	91423A340	11.95	
+M33 × 3 mm	50 mm	26 mm	ISO Class 8	DIN 934	1	91423A330	9.78	
+M33 × 3.5 mm	50 mm	26 mm	ISO Class 8	DIN 934	1	90592A341	7.18	
+M36 × 3 mm	55 mm	29 mm	ISO Class 8	DIN 934	1	91423A350	9.78	
+M36 × 4 mm	55 mm	29 mm	ISO Class 8	DIN 934	1	90592A070	12.74	
+M39 × 2 mm	60 mm	31 mm	ISO Class 8	DIN 934	1	91423A460	15.95	
+M39 × 3 mm	60 mm	31 mm	ISO Class 8	DIN 934	1	91423A360	12.93	
+M39 × 4 mm	60 mm	31 mm	ISO Class 8	DIN 934	1	90592A385	13.22	
+M42 × 3 mm	65 mm	34 mm	ISO Class 8	DIN 934	1	91423A370	40.81	
+M42 × 4.5 mm	65 mm	34 mm	ISO Class 8	DIN 934	1	90592A472	13.68	
+M45 × 3 mm	70 mm	36 mm	ISO Class 8	DIN 934	1	91423A380	41.67	
+M45 × 4.5 mm	70 mm	36 mm	ISO Class 8	DIN 934	1	90592A495	19.31	
+M48 × 3 mm	75 mm	38 mm	ISO Class 8	DIN 934	1	91423A390	46.15	
+M48 × 5 mm	75 mm	38 mm	ISO Class 8	DIN 934	1	90592A872	22.93	
+M52 × 3 mm	80 mm	42 mm	ISO Class 8	DIN 934	1	91423A410	47.88	
+M56 × 3 mm	85 mm	45 mm	ISO Class 8	DIN 934	1	91423A430	59.49	
+M56 × 4 mm	85 mm	45 mm	ISO Class 8	DIN 934	1	91423A420	37.24	
+M60 × 4 mm	90 mm	48 mm	ISO Class 8	DIN 934	1	91423A440	51.15	
+M72 × 4 mm	105 mm	58 mm	ISO Class 8	DIN 934	1	91423A450	111.50	
+ 
+High-Strength Steel
+Rated Grade 8, Grade C, or Class 10, these nuts are about 25% stronger than medium-strength steel nuts. They are commonly used to fasten components in valves, pumps, motors, and other high-stress applications. To avoid stripped threads during installation, make sure your screw has a comparable strength rating.
+Zinc-Plated Steel—A step up from plain steel, the zinc plating withstands occasional exposure to moisture.
+Zinc Yellow-Chromate-Plated Steel—With a more durable finish than clear zinc plating, these nuts are suitable for most wet and outdoor environments. However, they won't hold up to the harsh chemicals that stainless steel can.
+Black-Oxide Steel—Typically chosen for their appearance, these nuts have a dark, matte coating to create a finished look. They offer minimal corrosion resistance, so they're best for dry environments.
+Zinc Flake-Coated Steel—The most durable zinc coating, zinc flake is a multilayer finish that resists wear for long-term rust protection. Similar to zinc yellow-chromate, it won't hold up to harsh chemicals like stainless steel can.
+Steel—Best for dry environments since moisture will cause these nuts to rust.
+Blue Dyed Steel—These metric-sized nuts have a distinctive blue color, so you can easily tell them apart from inch nuts.
+High-Strength Steel with Material Certificate
+Nuts include a report with a traceable lot number and a description of their chemical and physical properties. Rated Grade 8, Grade C, or Class 10, these nuts are about 25% stronger than medium-strength steel nuts. They are commonly used to fasten components in valves, pumps, motors, and other high-stress applications. To avoid stripped threads during installation, make sure your screw has a comparable strength rating.
+Zinc Yellow-Chromate-Plated Steel—With a more durable finish than clear zinc plating, these nuts are suitable for most wet and outdoor environments. However, they won't hold up to the harsh chemicals that stainless steel can.
+Extreme-Strength Steel
+Rated Grade 9 or Class 12, these nuts are about 20% stronger than high-strength steel nuts. They are strong enough to secure components in heavy machinery, such as bulldozers and excavators. To avoid stripped threads during installation, make sure your screw has a comparable strength rating.
+Cadmium Yellow-Chromate-Plated Steel— The plating creates a barrier against rust, so these nuts are suitable for most wet and outdoor environments. They also thread on smoothly without sticking.
+Steel—Best for dry environments since moisture will cause these nuts to rust.
+Low-Strength Steel
+Rated Grade 2, Class 6, or lower, these nuts are about half as strong as medium-strength nuts. They are suitable for light duty fastening applications, such as securing access panels. Use them with screws that have a similar strength rating to avoid stripping threads during installation.
+Zinc-Plated Steel—A step up from plain steel, the zinc plating withstands occasional exposure to moisture.
+Zinc Yellow-Chromate-Plated Steel—With a more durable finish than clear zinc plating, these nuts are suitable for most wet and outdoor environments. However, they won't hold up to the harsh chemicals that stainless steel can.
+Black-Oxide Steel—Typically chosen for their appearance, these nuts have a dark, matte coating to create a finished look. They offer minimal corrosion resistance, so they're best for dry environments.
+Hot-Dipped Galvanized Steel—Combines the strength of steel with the rust resistance of stainless steel. These nuts are an economical alternative to 18-8 stainless steel in wet and outdoor environments, but they won't hold up to salt water and chemicals. The galvanized finish is thicker than other types of coatings, so the threads may be more likely to stick during installation. Use with other hot-dipped galvanized fasteners.
+Steel—Best for dry environments since moisture will cause these nuts to rust.
+Corrosion-Resistant Stainless Steel
+18-8 Stainless Steel—The choice for wet and outdoor environments, these nuts resist rust. However, they won't hold up to the harsh chemicals that 316 stainless steel can.
+Black-Oxide 18-8 Stainless Steel—Typically chosen for their appearance, these nuts have a dark, matte coating to create a finished look. They resist rust in wet and outdoor environments, but won't hold up to the harsh chemicals that 316 stainless steel can.
+PTFE-Coated 18-8 Stainless Steel—A slippery PTFE coating prevents these nuts from becoming stuck during installation. The coating resists rust in wet and outdoor environments and can handle occasional exposure to mild acids and chemicals without corroding.
+Super-Corrosion-Resistant 316 Stainless Steel—Superior to 18-8 stainless steel, these nuts won't degrade when exposed to harsh weather, salt water, and most chemicals.
+Super-Corrosion-Resistant Black-Oxide 316 Stainless Steel—Combines a finished appearance with the rust resistance of 316 stainless steel. Even if the coating wears off, these nuts will hold up in just about any environment, including salt water and most chemicals.
+High-Strength 17-4 PH Stainless Steel—The strongest stainless steel nuts we offer, these are comparable in strength to Grade 8 steel. Use them in high-stress applications, such as fastening structural parts and pump components. They won’t rust in wet and outdoor environments, but they can’t handle the harsh chemicals and acids that 316 stainless steel can.
+Super-Corrosion-Resistant High-Strength Bumax 88 Stainless Steel—Comparable in strength to Grade 5 steel and as corrosion resistant as 316 stainless steel. These nuts are commonly used in demanding environments, such as marine and chemical processing applications.
+Seize-Resistant High-Strength 410 Stainless Steel—Resists sticking during installation and is comparable in strength to Grade 5 steel. These nuts are not as corrosion resistant as 18-8 stainless steel, so they're best for environments that experience occasional moisture.
+High-Temperature High-Strength A286 Stainless Steel—Stronger than 316 stainless steel and withstands higher temperatures. These nuts resist corrosion from chemicals, such as bleach and chlorine, but they won't hold up to salt water as well as 316 stainless steel.
+Ultra-Corrosion-Resistant Alloy 20 Stainless Steel—The most corrosion-resistant stainless steel nuts we offer, these hold up in just about any environment. They won't pit or weaken when exposed to salt water and harsh chemicals, such as sulfuric acid. Also known as Carpenter 20.
+Lightweight Aluminum
+6061 Aluminum—One-third the weight of steel, these nuts are commonly used in robotics, automation, and other applications that have weight limitations. They're an alternative to stainless steel for rust resistance but are not as strong.
+Black Corrosion-Resistant-Coated 6061 Aluminum—Offers better rust resistance than plain aluminum. Also known as black luster, the coating creates a finished appearance and has been tested to extreme standards, including 1,000 hours of salt spray resistance, to hold up in wet and outdoor environments. One-third the weight of steel, these nuts are suitable for robotics, automation, and other applications that have weight limitations.
+Lightweight Corrosion-Resistant Titanium
+Grade 2 Titanium—The best of both worlds, these nuts are lightweight like aluminum and as corrosion resistant as 316 stainless steel. Because Grade 2 titanium is 99% pure, it's even more corrosion resistant than other common titanium grades, such as Grades 5 and 9. These nuts are ideal for use in chemical-processing and water-treatment facilities since they stand up to strong acids and other harsh chemicals.
+Corrosion-Resistant Nickel
+400 Nickel—Also known as Monel, 400 nickel is an economical alternative to titanium. These nuts are just as corrosion resistant to stand up to salt water and strong acids. Stronger than C276 nickel nuts, they are commonly used to fasten gauges and other components on valves, pumps, and shafts.
+C276 Nickel—Also known as Hastelloy, these nuts have the best chemical resistance of all the metal nuts we offer. They resist pitting and cracking, even when exposed to the harshest substances, such as acids and sulfides. However, they aren't as strong as 400 nickel nuts.
+Thread
+Size
+Wd.
+Ht.
+Pkg.
+Qty.
+Pkg.
+400 Nickel
+10-24	3/8"	1/8"	1	90810A212	$7.36	
+10-32	3/8"	1/8"	1	90810A213	6.71	
+1/4"-20	7/16"	7/32"	10	90810A029	16.74	
+5/16"-18	1/2"	17/64"	5	90810A030	11.51	
+3/8"-16	9/16"	21/64"	1	90810A031	4.21	
+7/16"-14	11/16"	3/8"	1	90810A211	9.47	
+1/2"-13	3/4"	7/16"	1	90810A033	8.89	
+5/8"-11	15/16"	35/64"	1	90810A035	11.35	
+3/4"-10	1 1/8"	41/64"	1	90810A036	24.45	
+7/8"-9	1 5/16"	3/4"	1	90810A214	50.45	
+ 
+C276 Nickel
+1/4"-20	7/16"	7/32"	1	95012A229	19.62	
+5/16"-18	1/2"	17/64"	1	95012A236	26.25	
+3/8"-16	9/16"	21/64"	1	95012A241	28.86	
+1/2"-13	3/4"	7/16"	1	95012A248	37.50	
+5/8"-11	15/16"	35/64"	1	95012A256	49.15	
+3/4"-10	1 1/8"	41/64"	1	95012A264	55.78	
+ 
+Bronze
+Silicon Bronze—More resistant to salt water than brass, these nuts are a good choice for marine environments. They are also stronger than brass and more resistant to abrasion and wear. Choose them for machinery with rotating parts or other applications where nearby components may rub against the nut.
+Thread Size
+Wd.
+Ht.
+Specs.
+Met
+Pkg.
+Qty.
+Pkg.
+Silicon Bronze
+4-40	1/4"	3/32"	__	100	93435A003	$7.27	
+6-32	5/16"	7/64"	__	100	93435A007	10.94	
+8-32	11/32"	1/8"	__	50	93435A009	8.76	
+10-24	3/8"	1/8"	__	50	93435A011	9.67	
+10-32	3/8"	1/8"	__	50	93435A411	9.67	
+12-24	7/16"	5/32"	__	25	93439A111	8.09	
+1/4"-20	7/16"	3/16"	__	25	93435A029	11.36	
+1/4"-20	7/16"	7/32"	__	50	93439A610	16.51	
+1/4"-28	7/16"	7/32"	__	25	93439A615	10.93	
+5/16"-18	1/2"	17/64"	__	25	93439A620	13.08	
+5/16"-24	1/2"	17/64"	__	10	93439A625	7.46	
+3/8"-16	9/16"	21/64"	__	25	93439A630	18.07	
+3/8"-16	5/8"	1/4"	__	10	93435A041	8.55	
+3/8"-24	9/16"	21/64"	__	10	93439A635	10.56	
+7/16"-14	11/16"	3/8"	__	10	93439A640	13.88	
+7/16"-20	11/16"	3/8"	__	5	93439A646	8.11	
+1/2"-13	3/4"	7/16"	__	10	93439A650	15.67	
+1/2"-20	3/4"	7/16"	__	5	93439A656	10.48	
+5/8"-11	15/16"	35/64"	__	5	93439A665	15.40	
+5/8"-18	15/16"	35/64"	__	1	93439A112	4.02	
+3/4"-10	1 1/8"	41/64"	__	1	93439A036	6.56	
+3/4"-16	1 1/8"	41/64"	__	1	93439A113	6.62	
+7/8"-9	1 5/16"	3/4"	__	1	93439A037	8.54	
+1"-8	1 1/2"	55/64"	__	1	93439A038	12.60	
+1 1/8"-7	1 11/16"	31/32"	__	1	93439A114	60.00	
+1 1/4"-7	1 7/8"	1 1/16"	__	1	93439A040	67.50	
+1 1/2"-6	2 1/4"	1 9/32"	__	1	93439A041	83.30	
+M6 × 1 mm	10 mm	5 mm	DIN 934	10	91776A101	14.20	
+M8 × 1.25 mm	13 mm	6.5 mm	DIN 934	5	91776A102	12.10	
+M10 × 1.5 mm	17 mm	8 mm	DIN 934	5	91776A103	25.81	
+M12 × 1.75 mm	19 mm	10 mm	DIN 934	1	91776A104	7.10	
+ 
+Brass
+Brass—Conductive and nonmagnetic, brass nuts are commonly used to secure electrical equipment, such as circuit board assemblies and mounting brackets, inside enclosures. They're also softer than most metals, so they won't damage other fastening components.
+Nickel-Plated Brass—The nickel plating offers better corrosion resistance than plain brass to stand up to solvents, salt water, and chemicals. The plating can wear off over time, so these nuts are not recommended for applications that experience a lot of friction or wear.
+Thread Size
+Wd.
+Ht.
+Specs.
+Met
+Pkg.
+Qty.
+Pkg.
+Brass
+000-120	5/64"	1/32"	__	10	92736A110	$15.00	
+00-90	5/64"	3/64"	__	10	92736A112	14.65	
+00-96	5/64"	3/64"	__	1	92736A132	0.95	
+0-80	5/32"	3/64"	__	100	92671A115	6.90	
+1-64	5/32"	3/64"	__	100	92671A002	6.23	
+1-72	5/32"	3/64"	__	100	92671A125	7.08	
+2-56	3/16"	1/16"	__	100	92671A003	4.08	
+2-64	3/16"	1/16"	__	100	92671A135	9.22	
+3-48	3/16"	1/16"	__	100	92671A004	4.65	
+3-56	3/16"	1/16"	__	100	92671A145	4.78	
+4-36	1/4"	3/32"	__	50	92671A236	7.22	
+4-40	1/4"	3/32"	__	100	92671A005	5.73	
+4-48	1/4"	3/32"	__	100	92671A155	8.08	
+5-40	5/16"	7/64"	__	100	92671A006	11.22	
+5-44	5/16"	7/64"	__	100	92671A165	15.10	
+6-32	5/16"	7/64"	__	100	92671A007	8.34	
+6-40	5/16"	7/64"	__	100	92671A175	17.27	
+8-32	11/32"	1/8"	__	100	92671A009	9.69	
+8-36	11/32"	1/8"	__	50	92671A185	6.79	
+10-24	3/8"	1/8"	__	100	92671A011	11.67	
+10-32	3/8"	1/8"	__	100	92671A195	11.39	
+12-24	7/16"	5/32"	__	50	92671A013	10.92	
+12-28	7/16"	5/32"	__	50	92671A205	14.92	
+1/4"-20	7/16"	7/32"	__	50	92676A029	11.04	
+1/4"-28	7/16"	7/32"	__	50	92676A429	14.88	
+5/16"-18	1/2"	17/64"	__	50	92676A030	15.42	
+5/16"-24	1/2"	17/64"	__	25	92676A430	11.31	
+3/8"-16	9/16"	21/64"	__	25	92676A450	12.17	
+3/8"-24	9/16"	21/64"	__	10	92676A455	6.75	
+7/16"-14	11/16"	3/8"	__	10	92676A460	8.40	
+7/16"-20	11/16"	3/8"	__	10	92676A465	8.56	
+1/2"-13	3/4"	7/16"	__	10	92676A470	9.45	
+1/2"-20	3/4"	7/16"	__	5	92676A475	6.18	
+9/16"-12	7/8"	31/64"	__	5	92676A480	10.15	
+5/8"-11	15/16"	35/64"	__	5	92676A485	10.17	
+5/8"-18	15/16"	35/64"	__	1	92676A490	2.21	
+3/4"-10	1 1/8"	41/64"	__	5	92676A495	15.11	
+3/4"-16	1 1/8"	41/64"	__	1	92676A510	4.48	
+7/8"-9	1 5/16"	3/4"	__	1	92676A515	4.94	
+7/8"-14	1 5/16"	3/4"	__	1	92676A437	9.42	
+1"-8	1 1/2"	55/64"	__	1	92676A038	6.89	
+1 1/8"-7	1 11/16"	31/32"	__	1	92676A039	17.15	
+1 1/4"-7	1 7/8"	1 1/16"	__	1	92676A040	28.98	
+1 1/2"-6	2 1/4"	1 9/32"	__	1	92676A041	37.71	
+M1 × 0.25 mm	2.5 mm	0.8 mm	DIN 934	1	90690A111	3.45	
+M1.2 × 0.25 mm	3 mm	1 mm	DIN 934	5	90690A112	10.34	
+M1.4 × 0.3 mm	3 mm	1.2 mm	DIN 934	5	90690A113	10.69	
+M1.6 × 0.35 mm	3.2 mm	1.3 mm	DIN 934	5	90690A114	6.90	
+M1.7 × 0.35 mm	3.5 mm	1.4 mm	DIN 934	5	90690A115	7.24	
+M2 × 0.4 mm	4 mm	1.6 mm	DIN 934	100	90690A030	4.82	
+M2.5 × 0.45 mm	5 mm	2 mm	DIN 934	100	90690A035	8.61	
+M2.6 × 0.45 mm	5 mm	2 mm	DIN 934	50	90690A026	12.59	
+M3 × 0.5 mm	5.5 mm	2.4 mm	DIN 934	100	90690A037	8.28	
+M3.5 × 0.6 mm	6 mm	2.8 mm	DIN 934	100	90690A036	15.52	
+M4 × 0.7 mm	7 mm	3.2 mm	DIN 934	100	90690A044	15.86	
+M5 × 0.8 mm	8 mm	4 mm	DIN 934	50	90690A046	13.00	
+M6 × 0.75 mm	10 mm	5 mm	DIN 934	1	96815A110	9.09	
+M6 × 1 mm	10 mm	5 mm	DIN 934	25	90690A047	10.78	
+M7 × 1 mm	11 mm	5.5 mm	DIN 934	10	90690A052	8.97	
+M8 × 1 mm	13 mm	6.5 mm	DIN 934	5	96815A120	12.07	
+M8 × 1.25 mm	13 mm	6.5 mm	DIN 934	10	90690A055	8.97	
+M10 × 1 mm	17 mm	8 mm	DIN 934	5	96815A130	14.82	
+M10 × 1.5 mm	17 mm	8 mm	DIN 934	10	90690A059	20.69	
+M12 × 1 mm	19 mm	10 mm	DIN 934	1	96815A140	11.82	
+M12 × 1.75 mm	19 mm	10 mm	DIN 934	5	90690A063	13.79	
+M14 × 1.5 mm	22 mm	11 mm	DIN 934	1	96815A170	5.15	
+M14 × 2 mm	22 mm	11 mm	DIN 934	5	90690A064	18.97	
+M16 × 1.5 mm	24 mm	13 mm	DIN 934	1	96815A180	7.42	
+M16 × 2 mm	24 mm	13 mm	DIN 934	1	90690A060	4.83	
+M18 × 1.5 mm	27 mm	15 mm	DIN 934	1	96815A190	13.94	
+M18 × 2.5 mm	27 mm	15 mm	DIN 934	1	90690A065	5.77	
+M20 × 1.5 mm	30 mm	16 mm	DIN 934	1	96815A210	10.15	
+M20 × 2.5 mm	30 mm	16 mm	DIN 934	1	90690A070	9.71	
+M22 × 1.5 mm	32 mm	18 mm	DIN 934	1	96815A220	11.82	
+M24 × 1.5 mm	36 mm	19 mm	DIN 934	1	96815A230	15.63	
+M24 × 2 mm	36 mm	19 mm	DIN 934	1	96815A240	34.00	
+M24 × 3 mm	36 mm	19 mm	DIN 934	1	90690A080	14.56	
+M27 × 3 mm	41 mm	22 mm	DIN 934	1	90690A117	25.00	
+M30 × 3.5 mm	46 mm	24 mm	DIN 934	1	90690A090	27.50	
+ 
+Nickel-Plated Brass
+M2 × 0.4 mm	4 mm	1.6 mm	DIN 934	100	93778A111	7.97	
+M3 × 0.5 mm	5.5 mm	2.4 mm	DIN 934	50	93778A112	8.03	
+M4 × 0.7 mm	7 mm	3.2 mm	DIN 934	25	93778A114	5.39	
+M5 × 0.8 mm	8 mm	4 mm	DIN 934	25	93778A115	6.73	
+M6 × 1 mm	10 mm	5 mm	DIN 934	10	93778A116	4.84	
+M8 × 1.25 mm	13 mm	6.5 mm	DIN 934	10	93778A117	9.78	
+M10 × 1.5 mm	17 mm	8 mm	DIN 934	5	93778A118	9.19	
+ 
+Plastic
+Nylon 6/6— The most common plastic nuts, these are good for general purpose fastening. They are slippery and abrasion resistant, so they thread on smoothly and stand up to daily wear and tear. Nylon will swell and weaken when exposed to moisture, so these nuts are best for dry environments.
+High-Strength Glass-Filled Nylon—Glass fibers embedded in the nylon give these nuts better strength than nylon 6/6. They can also handle higher temperatures without losing strength.
+Moisture-Resistant Acetal—The best plastic for damp and wet environments, these nuts won't swell or lose their strength if exposed to moisture. They also resist wear and scratches better than nylon nuts.
+Clear Impact-Resistant Polycarbonate—Our most impact-resistant plastic nuts, these withstand bumps and vibration without cracking or denting. They are also clear to be less noticeable in your assembly.
+Acid-Resistant PVC—Connect sensors, fittings, and other equipment in chemical-processing lines. These nuts won't degrade when exposed to harsh acids, alkalis, and alcohols.
+Chemical-Resistant Polypropylene—Versatile and economical, these resist a broad range of chemicals, such as petroleum, degreasers, and sulfuric acid. They're not quite as chemical resistant as PTFE nuts and will weaken if exposed to chlorine, lacquer solvents, or nitric acid.
+High-Temperature Chemical-Resistant PTFE—The most chemical-resistant plastic nuts we offer, these stand up to the widest range of harsh acids, bases, solvents, and corrosive cleaners. They also keep their shape and strength at higher temperatures than most plastics.
+High-Strength High-Temperature PEEK—A close alternative to metal nuts, these offer the best strength of all our plastic nuts to stand up to high-stress applications. They also won't degrade when exposed to high heat, so they are a good choice for joining components on circuit boards and other electrical applications. They aren't very impact resistant, however, and may crack or dent if subjected to hard bumps and vibrations.
+Noncontaminating PVDF—The highest purity nuts we offer, these won't release contaminants into your process line that can damage critical components. They are commonly used in clean rooms for pharmaceutical and semiconductor manufacturing, as well as in food and beverage applications. PVDF is comparable to Kynar and Solef.
+Temp.,
+° F
+Thread Size
+Wd.
+Ht.
+Min.
+Max.
+Food Industry Std.
+Flammability
+Rating
+Choose a Color
+Pkg.
+Qty.
+Pkg.
+Nylon 6/6
+2-56	3/16"	1/16"	-40	185	__	__	Black, Off-White	100	94812A100	$11.89	
+3-48	3/16"	1/16"	-40	185	__	__	Black, Off-White	100	94812A820	13.19	
+4-40	17/64"	3/32"	-40	185	__	__	Black, Off-White	100	94812A200	11.93	
+6-32	5/16"	1/8"	-40	185	__	__	Black, Off-White	100	94812A300	12.12	
+6-40	5/16"	1/8"	-40	185	__	__	Black, Off-White	100	94812A663	12.95	
+8-32	11/32"	1/8"	-40	185	__	__	Black, Off-White	100	94812A400	12.33	
+10-24	3/8"	9/64"	-40	185	__	__	Black, Off-White	100	94812A500	12.60	
+10-32	3/8"	9/64"	-40	185	__	__	Black, Off-White	100	94812A600	12.60	
+12-24	7/16"	13/64"	-40	185	__	__	Black, Off-White	100	94812A830	14.76	
+1/4"-20	7/16"	15/64"	-40	185	__	__	Black, Off-White	100	94812A700	13.24	
+1/4"-28	7/16"	15/64"	-40	185	__	__	Black, Off-White	100	94812A800	13.24	
+5/16"-18	33/64"	17/64"	-40	185	__	__	Black, Off-White	100	94812A910	24.05	
+5/16"-24	33/64"	17/64"	-40	185	__	__	Black, Off-White	50	94812A840	14.59	
+3/8"-16	9/16"	21/64"	-40	185	__	__	Black, Off-White	50	94812A920	17.38	
+3/8"-24	9/16"	21/64"	-40	185	__	__	Black, Off-White	50	94812A850	12.56	
+3/8"-32	9/16"	11/32"	-40	185	__	__	Black, Off-White	50	94812A681	16.58	
+7/16"-14	11/16"	3/8"	-40	185	__	__	Black, Off-White	50	94812A860	25.03	
+7/16"-20	11/16"	3/8"	-40	185	__	__	Black, Off-White	50	94812A870	19.66	
+1/2"-13	49/64"	7/16"	-40	185	__	__	Black, Off-White	50	94812A930	24.02	
+1/2"-20	49/64"	7/16"	-40	185	__	__	Black, Off-White	25	94812A880	14.56	
+5/8"-11	15/16"	35/64"	-40	185	__	__	Black, Off-White	25	94812A940	21.36	
+5/8"-18	15/16"	9/16"	-40	185	__	__	Black, Off-White	25	94812A683	20.31	
+11/16"-27	1"	1/4"	-40	185	__	__	Black, Off-White	10	94812A684	11.48	
+3/4"-10	1 7/64"	41/64"	-40	185	__	__	Black, Off-White	20	94812A950	28.11	
+7/8"-9	1 19/64"	3/4"	-40	185	__	__	Black, Off-White	10	94812A960	18.95	
+1"-8	1 31/64"	7/8"	-40	185	__	__	Black, Off-White	10	94812A970	19.17	
+M2 × 0.4 mm	3.9 mm	1.2 mm	-40	185	__	__	Black, Off-White	100	93800A300	22.94	
+M2.5 × 0.45 mm	4.9 mm	1.8 mm	-40	185	__	__	Black, Off-White	100	93800A350	20.34	
+M3 × 0.5 mm	5.4 mm	2.2 mm	-40	185	__	__	Black, Off-White	100	93800A400	23.06	
+M3.5 × 0.6 mm	6.9 mm	2.7 mm	-40	185	__	__	Black, Off-White	100	93800A450	20.34	
+M4 × 0.7 mm	6.9 mm	3 mm	-40	185	__	__	Black, Off-White	100	93800A500	22.96	
+M5 × 0.8 mm	7.9 mm	4.3 mm	-40	185	__	__	Black, Off-White	100	93800A550	23.48	
+M6 × 1 mm	10 mm	5.4 mm	-40	185	__	__	Black, Off-White	100	93800A600	24.45	
+M8 × 1.25 mm	12.9 mm	6.4 mm	-40	185	__	__	Black, Off-White	50	93800A650	17.63	
+M10 × 1.5 mm	14.8 mm	9.8 mm	-40	185	__	__	Black, Off-White	50	93800A700	21.52	
+M12 × 1.75 mm	17.74 mm	10.54 mm	-40	185	__	__	Black, Off-White	10	93800A750	13.85	
+M16 × 2 mm	24 mm	14.8 mm	-40	185	__	__	Black, Off-White	10	93369A204	11.24	
+ 
+High-Strength Glass-Filled Nylon
+6-32	5/16"	1/8"	-20	230	__	__	Off-White	10	90387A321	7.03	
+8-32	11/32"	9/64"	-20	230	__	__	Off-White	10	90387A326	7.53	
+10-32	3/8"	9/64"	-20	230	__	__	Off-White	10	90387A332	7.82	
+1/4"-20	7/16"	15/64"	-20	230	__	__	Off-White	10	90387A337	8.27	
+M2 × 0.4 mm	3.9 mm	1.2 mm	-20	230	__	__	Off-White	10	90387A501	10.67	
+M3 × 0.5 mm	5.4 mm	2.2 mm	-20	230	__	__	Off-White	25	90387A503	34.93	
+M4 × 0.7 mm	6.9 mm	3 mm	-20	230	__	__	Off-White	10	90387A505	8.21	
+M5 × 0.8 mm	7.9 mm	4.3 mm	-20	230	__	__	Off-White	10	90387A506	9.43	
+M6 × 1 mm	10 mm	5.4 mm	-20	230	__	__	Off-White	10	90387A507	10.67	
+M8 × 1.25 mm	12.9 mm	6.4 mm	-20	230	__	__	Off-White	10	90387A508	12.47	
+M10 × 1.5 mm	14.8 mm	9.8 mm	-20	230	__	__	Off-White	10	90387A509	14.23	
+ 
+Moisture-Resistant Acetal
+10-32	3/8"	9/64"	Not Rated	Not Rated	__	__	White	50	99223A022	16.68	
+1/4"-20	7/16"	15/64"	Not Rated	Not Rated	__	__	White	50	99223A029	17.68	
+5/16"-18	33/64"	17/64"	Not Rated	Not Rated	__	__	White	25	99223A038	17.44	
+3/8"-16	9/16"	21/64"	Not Rated	Not Rated	__	__	White	25	99223A055	23.32	
+1/2"-13	49/64"	7/16"	Not Rated	Not Rated	__	__	White	10	99223A067	14.45	
+ 
+Clear Impact-Resistant Polycarbonate
+4-40	17/64"	3/32"	-40	210	__	__	Clear	25	94905A005	11.35	
+6-32	5/16"	1/8"	-40	210	__	__	Clear	25	94905A007	11.61	
+8-32	11/32"	1/8"	-40	210	__	__	Clear	10	94905A009	6.09	
+10-32	3/8"	9/64"	-40	210	__	__	Clear	10	94905A011	6.23	
+1/4"-20	27/64"	15/64"	Not Rated	210	__	__	Clear	10	94905A013	4.89	
+M2 × 0.4 mm	3.9 mm	1.2 mm	-40	210	__	__	Clear	10	94905A111	7.91	
+M2.5 × 0.45 mm	4.9 mm	1.8 mm	-40	210	__	__	Clear	10	94905A112	9.25	
+M3 × 0.5 mm	5.4 mm	2.2 mm	-40	210	__	__	Clear	25	94905A113	28.39	
+M4 × 0.7 mm	6.9 mm	3 mm	-40	210	__	__	Clear	10	94905A115	7.46	
+M5 × 0.8 mm	7.9 mm	4.3 mm	-40	210	__	__	Clear	10	94905A116	8.48	
+M6 × 1 mm	10 mm	5.4 mm	-40	210	__	__	Clear	10	94905A117	10.17	
+M8 × 1.25 mm	12.9 mm	6.4 mm	-40	210	__	__	Clear	10	94905A118	11.89	
+M10 × 1.5 mm	14.8 mm	9.8 mm	-40	210	__	__	Clear	10	94905A119	13.57	
+M12 × 1.75 mm	17.74 mm	10.54 mm	-40	210	__	__	Clear	5	94905A121	9.08	
+ 
+Acid-Resistant PVC
+1/4"-20	15/32"	7/32"	Not Rated	Not Rated	__	__	Gray	10	94806A029	14.33	
+5/16"-18	17/32"	17/64"	Not Rated	Not Rated	__	__	Gray	10	94806A030	16.56	
+3/8"-16	19/32"	21/64"	Not Rated	Not Rated	__	__	Gray	10	94806A031	18.11	
+1/2"-13	25/32"	7/16"	Not Rated	Not Rated	__	__	Gray	1	94806A034	2.56	
+5/8"-11	29/32"	35/64"	Not Rated	Not Rated	__	__	Gray	1	94806A044	4.45	
+3/4"-10	1 1/32"	41/64"	Not Rated	Not Rated	__	__	Gray	1	94806A052	9.33	
+ 
+Chemical-Resistant Polypropylene
+6-32	5/16"	1/8"	-20	210	__	__	Off-White	10	96169A452	6.75	
+8-32	5/16"	1/8"	-20	210	__	__	Off-White	10	96169A457	7.20	
+10-32	3/8"	1/8"	-20	210	__	__	Off-White	10	96169A463	7.51	
+1/4"-20	7/16"	7/32"	-20	210	__	__	Off-White	10	96169A468	8.00	
+M4 × 0.7 mm	7 mm	3.2 mm	35	140	__	__	White	10	96169A481	11.90	
+M5 × 0.8 mm	8 mm	4 mm	35	140	__	__	White	5	96169A482	6.85	
+M6 × 1 mm	10 mm	5 mm	35	140	__	__	White	10	96169A483	15.03	
+M8 × 1.25 mm	13 mm	6.5 mm	35	140	__	__	White	10	96169A484	16.54	
+M10 × 1.5 mm	17 mm	8 mm	35	140	__	__	White	5	96169A485	11.10	
+M12 × 1.75 mm	19 mm	10 mm	35	140	__	__	White	1	96169A486	3.24	
+ 
+High-Temperature Chemical-Resistant PTFE
+2-56	3/16"	1/16"	Not Rated	500	__	__	White	1	90059A112	4.17	
+4-40	1/4"	3/32"	Not Rated	500	__	__	White	1	90059A005	4.40	
+6-32	5/16"	1/8"	Not Rated	500	__	__	White	1	90059A007	5.08	
+8-32	5/16"	1/8"	Not Rated	500	__	__	White	1	90059A009	5.24	
+10-24	3/8"	1/8"	Not Rated	500	__	__	White	1	90059A011	5.28	
+10-32	3/8"	9/64"	Not Rated	500	__	__	White	1	90059A111	5.28	
+1/4"-20	7/16"	7/32"	Not Rated	500	__	__	White	1	90059A029	5.52	
+5/16"-18	1/2"	17/64"	Not Rated	500	__	__	White	1	90059A030	5.72	
+3/8"-16	9/16"	21/64"	Not Rated	500	__	__	White	1	90059A031	6.16	
+3/8"-24	9/16"	21/64"	Not Rated	500	__	__	White	1	90059A113	7.06	
+1/2"-13	3/4"	7/16"	Not Rated	500	__	__	White	1	90059A033	5.87	
+1/2"-20	3/4"	7/16"	Not Rated	500	__	__	White	1	90059A114	10.38	
+5/8"-11	7/8"	35/64"	Not Rated	500	__	__	White	1	90059A035	11.00	
+3/4"-10	1 1/8"	41/64"	Not Rated	500	__	__	White	1	90059A036	11.80	
+M3 × 0.5 mm	5.32 mm	2.2 mm	Not Rated	500	__	__	White	1	90059A115	6.60	
+M4 × 0.7 mm	6.78 mm	2.9 mm	Not Rated	500	__	__	White	1	90059A116	7.04	
+M5 × 0.8 mm	7.78 mm	4.4 mm	Not Rated	500	__	__	White	1	90059A117	6.87	
+M6 × 1 mm	9.78 mm	4.9 mm	Not Rated	500	__	__	White	1	90059A118	8.23	
+M8 × 1.25 mm	12.73 mm	6.4 mm	Not Rated	500	__	__	White	1	90059A119	9.52	
+ 
+High-Strength High-Temperature PEEK
+4-40	1/4"	3/32"	-50	550	__	__	Black, Brown	1	98886A819	3.69	
+6-32	5/16"	7/64"	-50	550	__	__	Black, Brown	1	98886A822	4.26	
+8-32	11/32"	1/8"	-50	550	__	__	Black, Brown	1	98886A823	4.31	
+10-32	3/8"	1/8"	-50	550	__	__	Black, Brown	1	98886A816	4.37	
+1/4"-20	7/16"	3/16"	-50	550	__	__	Black, Brown	1	98886A813	4.65	
+1/4"-28	7/16"	3/16"	-50	550	__	__	Black	1	98886A731	4.72	
+5/16"-18	9/16"	7/32"	-50	550	__	__	Black, Brown	1	98886A820	5.17	
+5/16"-24	9/16"	7/32"	-50	550	__	__	Black	1	98886A733	5.18	
+3/8"-16	5/8"	1/4"	-50	550	__	__	Black, Brown	1	98886A817	5.35	
+3/8"-24	5/8"	1/4"	-50	550	__	__	Black	1	98886A735	5.49	
+1/2"-13	45/64"	1/4"	-50	550	__	__	Black	1	98886A736	6.28	
+1/2"-20	45/64"	1/4"	-50	550	__	__	Black	1	98886A737	6.36	
+M3 × 0.5 mm	4.8 mm	1.4 mm	-50	550	__	__	Black, Brown	1	98886A826	3.36	
+M4 × 0.7 mm	6.8 mm	2 mm	-50	550	__	__	Black, Brown	1	98886A827	3.87	
+M5 × 0.8 mm	7.8 mm	2.5 mm	-50	550	__	__	Black	1	98886A740	3.92	
+M6 × 1 mm	9.9 mm	3.2 mm	-50	550	__	__	Black	1	98886A741	4.18	
+M8 × 1.25 mm	12.85 mm	4 mm	-50	550	__	__	Black	1	98886A742	5.31	
+M10 × 1.5 mm	15.85 mm	6.3 mm	-50	550	__	__	Black	1	98886A743	5.49	
+M12 × 1.75 mm	17.9 mm	6.3 mm	-50	550	__	__	Black	1	98886A744	6.28	
+ 
+Noncontaminating PVDF
+1/4"-20	7/16"	15/64"	-145	300	FDA Compliant 21 CFR 177.2510, NSF/ANSI 61	UL 94 V-0	White	5	92513A230	11.80	
+3/8"-16	9/16"	21/64"	-145	300	FDA Compliant 21 CFR 177.2510, NSF/ANSI 61	UL 94 V-0	White	1	92513A250	2.99	
+5/8"-11	59/64"	35/64"	-145	300	FDA Compliant 21 CFR 177.2510, NSF/ANSI 61	UL 94 V-0	White	1	92513A270	6.17	
+3/4"-10	1 7/64"	41/64"	-145	300	FDA Compliant 21 CFR 177.2510, NSF/ANSI 61	UL 94 V-0	White	1	92513A280	7.85	
+M2 × 0.4 mm	4 mm	1.6 mm	-145	300	FDA Compliant 21 CFR 177.2510, NSF/ANSI 61	UL 94 V-0	White	5	92513A110	11.80	
+M3 × 0.5 mm	5.5 mm	2.4 mm	-145	300	FDA Compliant 21 CFR 177.2510, NSF/ANSI 61	UL 94 V-0	White	5	92513A130	8.66	
+M4 × 0.7 mm	6.8 mm	2 mm	-145	300	FDA Compliant 21 CFR 177.2510, NSF/ANSI 61	UL 94 V-0	White	5	92513A150	10.23	
+M5 × 0.8 mm	7.8 mm	2.5 mm	-145	300	FDA Compliant 21 CFR 177.2510, NSF/ANSI 61	UL 94 V-0	White	5	92513A160	11.00	
+M6 × 1 mm	9.9 mm	3.2 mm	-145	300	FDA Compliant 21 CFR 177.2510, NSF/ANSI 61	UL 94 V-0	White	5	92513A170	12.57	
+M8 × 1.25 mm	10.3 mm	4 mm	-145	300	FDA Compliant 21 CFR 177.2510, NSF/ANSI 61	UL 94 V-0	White	1	92513A180	2.98	
+M10 × 1.5 mm	16 mm	8.4 mm	-145	300	FDA Compliant 21 CFR 177.2510, NSF/ANSI 61	UL 94 V-0	White	1	92513A190	3.94	
+M12 × 1.75 mm	18.8 mm	10.3 mm	-145	300	FDA Compliant 21 CFR 177.2510, NSF/ANSI 61	UL 94 V-0	White	1	92513A210	5.51	
+M16 × 2 mm	24 mm	14.8 mm	-145	300	FDA Compliant 21 CFR 177.2510, NSF/ANSI 61	UL 94 V-0	White	1	92513A220	7.09	
+ 
+High-Temperature Ceramic
+Ceramic—Secure components in industrial furnaces, kilns, and other extreme-heat applications. These nuts won't melt, seize, or become brittle—even at temperatures up to 3000° F. Ceramic nuts may crack or dent if subjected to hard bumps and vibrations.
+Thread
+Size
+Wd.
+Ht.
+Max. Temp.,
+° F
+Color
+Pkg.
+Qty.
+Pkg.
+Ceramic
+2-56	3/16"	1/16"	3,000	Off-White	1	94635A110	$18.00	
+4-40	1/4"	3/32"	3,000	Off-White	1	94635A115	19.16	
+6-32	5/16"	7/64"	3,000	Off-White	1	94635A120	20.27	
+8-32	11/32"	1/8"	3,000	Off-White	1	94635A124	21.12	
+10-24	3/8"	1/8"	3,000	Off-White	1	94635A140	20.00	
+10-32	3/8"	1/8"	3,000	Off-White	1	94635A130	22.01	
+1/4"-20	7/16"	7/32"	3,000	Off-White	1	94635A135	23.58	
+1/4"-28	7/16"	7/32"	3,000	Off-White	1	94635A145	21.43	
+5/16"-18	1/2"	17/64"	3,000	Off-White	1	94635A150	22.70	
+3/8"-16	9/16"	21/64"	3,000	Off-White	1	94635A155	23.73	
+ 
+Fiberglass
+Fiberglass—With the best strength-to-weight ratio of all our non-metal hex nuts, these hold up in high-stress applications without adding weight to your assembly. They resist acids, solvents, oil, and salt water.
+Thread
+Size
+Wd.
+Ht.
+Max. Temp.,
+° F
+Color
+Pkg.
+Qty.
+Pkg.
+Fiberglass
+4-40	1/4"	3/32"	190	Gray	10	91395A005	$13.56	
+6-32	5/16"	7/64"	190	Gray	10	91395A120	13.78	
+8-32	3/8"	1/8"	190	Gray	10	91395A130	14.00	
+10-24	3/8"	1/8"	190	Gray	10	91395A140	14.22	
+10-32	3/8"	1/8"	190	Gray	10	91395A411	14.22	
+1/4"-20	7/16"	7/32"	190	Gray	5	91395A029	7.22	
+1/4"-28	7/16"	7/32"	190	Gray	5	91395A150	7.22	
+5/16"-18	1/2"	17/64"	190	Gray	5	91395A030	7.45	
+5/16"-24	1/2"	17/64"	190	Gray	5	91395A160	7.61	
+3/8"-16	9/16"	21/64"	190	Gray	5	91395A031	8.01	
+3/8"-24	9/16"	21/64"	190	Gray	5	91395A170	8.01	
+1/2"-13	3/4"	7/16"	190	Gray	5	91395A033	8.60	
+1/2"-20	3/4"	7/16"	190	Gray	5	91395A180	8.60	
+5/8"-11	15/16"	35/64"	190	Gray	5	91395A035	10.20	
+5/8"-18	15/16"	35/64"	190	Gray	5	91395A190	10.20	
+3/4"-10	1 1/8"	41/64"	190	Gray	5	91395A036	11.67	
+3/4"-16	1 1/8"	41/64"	190	Gray	5	91395A210	11.67	
+7/8"-9	1 5/16"	25/32"	190	Gray	1	91395A220	6.11	
+7/8"-14	1 5/16"	25/32"	190	Gray	1	91395A230	6.11	
+1"-8	1 1/2"	55/64"	190	Gray	1	91395A038	2.62	
+1"-12	1 1/2"	55/64"	190	Gray	5	91395A240	13.11	
+1"-14	1 1/2"	55/64"	190	Gray	5	91395A250	13.11

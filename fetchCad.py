@@ -13,6 +13,7 @@ from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 import time
 import pandas as pd
+from selenium_stealth import stealth
 
 # Load product numbers from CSV
 file_path = r'PartNumbers.csv'
@@ -35,6 +36,14 @@ chrome_options.add_experimental_option("prefs", prefs)
 
 # Set up WebDriver
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
+stealth(driver,
+        languages=["en-US", "en"],
+        vendor="Google Inc.",
+        platform="Win32",
+        webgl_vendor="Intel Inc.",
+        renderer="Intel Iris OpenGL Engine",
+        fix_hairline=True,
+        )
 
 # Base URL
 base_url = "https://www.mcmaster.com/"
